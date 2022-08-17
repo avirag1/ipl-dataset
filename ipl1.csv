@@ -1,0 +1,522 @@
+team1,team2,t1Form,t2Form,winner
+Deccan Chargers,Chennai Super Kings,0,1,Chennai Super Kings
+Delhi Daredevils,Chennai Super Kings,0,2,Chennai Super Kings
+Kings XI Punjab,Chennai Super Kings,0,3,Chennai Super Kings
+Kolkata Knight Riders,Chennai Super Kings,0,4,Chennai Super Kings
+Kolkata Knight Riders,Chennai Super Kings,0,5,Chennai Super Kings
+Rajasthan Royals,Chennai Super Kings,1,4,Rajasthan Royals
+Royal Challengers Bangalore,Chennai Super Kings,1,3,Royal Challengers Bangalore
+Chennai Super Kings,Deccan Chargers,2,1,Deccan Chargers
+Delhi Daredevils,Deccan Chargers,1,1,Delhi Daredevils
+Kolkata Knight Riders,Deccan Chargers,1,1,Kolkata Knight Riders
+Mumbai Indians,Deccan Chargers,0,2,Deccan Chargers
+Mumbai Indians,Deccan Chargers,1,2,Mumbai Indians
+Royal Challengers Bangalore,Deccan Chargers,2,1,Royal Challengers Bangalore
+Chennai Super Kings,Delhi Daredevils,1,2,Delhi Daredevils
+Deccan Chargers,Delhi Daredevils,1,3,Delhi Daredevils
+Kolkata Knight Riders,Delhi Daredevils,2,3,Kolkata Knight Riders
+Mumbai Indians,Delhi Daredevils,1,4,Delhi Daredevils
+Mumbai Indians,Delhi Daredevils,2,3,Mumbai Indians
+Rajasthan Royals,Delhi Daredevils,1,3,Delhi Daredevils
+Rajasthan Royals,Delhi Daredevils,2,2,Rajasthan Royals
+Royal Challengers Bangalore,Delhi Daredevils,2,3,Delhi Daredevils
+Chennai Super Kings,Kings XI Punjab,1,0,Chennai Super Kings
+Chennai Super Kings,Kings XI Punjab,2,0,Chennai Super Kings
+Deccan Chargers,Kings XI Punjab,1,1,Kings XI Punjab
+Deccan Chargers,Kings XI Punjab,0,2,Kings XI Punjab
+Delhi Daredevils,Kings XI Punjab,2,3,Kings XI Punjab
+Delhi Daredevils,Kings XI Punjab,2,4,Kings XI Punjab
+Royal Challengers Bangalore,Kings XI Punjab,2,5,Kings XI Punjab
+Royal Challengers Bangalore,Kings XI Punjab,2,5,Kings XI Punjab
+Deccan Chargers,Kolkata Knight Riders,0,3,Kolkata Knight Riders
+Kings XI Punjab,Kolkata Knight Riders,5,3,Kings XI Punjab
+Kings XI Punjab,Kolkata Knight Riders,4,4,Kolkata Knight Riders
+Rajasthan Royals,Kolkata Knight Riders,3,3,Rajasthan Royals
+Chennai Super Kings,Mumbai Indians,3,2,Chennai Super Kings
+Chennai Super Kings,Mumbai Indians,3,3,Mumbai Indians
+Kings XI Punjab,Mumbai Indians,4,2,Kings XI Punjab
+Kings XI Punjab,Mumbai Indians,4,2,Kings XI Punjab
+Kolkata Knight Riders,Mumbai Indians,2,2,Mumbai Indians
+Kolkata Knight Riders,Mumbai Indians,1,3,Mumbai Indians
+Rajasthan Royals,Mumbai Indians,3,3,Mumbai Indians
+Royal Challengers Bangalore,Mumbai Indians,1,4,Mumbai Indians
+Chennai Super Kings,Rajasthan Royals,3,3,Rajasthan Royals
+Chennai Super Kings,Rajasthan Royals,2,4,Rajasthan Royals
+Deccan Chargers,Rajasthan Royals,0,4,Rajasthan Royals
+Deccan Chargers,Rajasthan Royals,0,4,Rajasthan Royals
+Delhi Daredevils,Rajasthan Royals,1,5,Rajasthan Royals
+Kings XI Punjab,Rajasthan Royals,4,4,Kings XI Punjab
+Kings XI Punjab,Rajasthan Royals,3,4,Rajasthan Royals
+Kolkata Knight Riders,Rajasthan Royals,1,4,Rajasthan Royals
+Mumbai Indians,Rajasthan Royals,4,4,Rajasthan Royals
+Royal Challengers Bangalore,Rajasthan Royals,0,4,Rajasthan Royals
+Chennai Super Kings,Royal Challengers Bangalore,2,0,Chennai Super Kings
+Deccan Chargers,Royal Challengers Bangalore,0,1,Royal Challengers Bangalore
+Delhi Daredevils,Royal Challengers Bangalore,2,1,Delhi Daredevils
+Kolkata Knight Riders,Royal Challengers Bangalore,1,1,Kolkata Knight Riders
+Kolkata Knight Riders,Royal Challengers Bangalore,2,1,Kolkata Knight Riders
+Mumbai Indians,Royal Challengers Bangalore,3,2,Royal Challengers Bangalore
+Rajasthan Royals,Royal Challengers Bangalore,5,1,Rajasthan Royals
+Delhi Daredevils,Chennai Super Kings,2,1,Delhi Daredevils
+Mumbai Indians,Chennai Super Kings,2,2,Chennai Super Kings
+Mumbai Indians,Chennai Super Kings,2,2,Mumbai Indians
+Rajasthan Royals,Chennai Super Kings,4,3,Chennai Super Kings
+Chennai Super Kings,Deccan Chargers,3,0,Chennai Super Kings
+Chennai Super Kings,Deccan Chargers,3,1,Deccan Chargers
+Delhi Daredevils,Deccan Chargers,2,2,Deccan Chargers
+Delhi Daredevils,Deccan Chargers,3,2,Delhi Daredevils
+Kings XI Punjab,Deccan Chargers,4,2,Kings XI Punjab
+Kolkata Knight Riders,Deccan Chargers,2,3,Deccan Chargers
+Kolkata Knight Riders,Deccan Chargers,2,3,Deccan Chargers
+Royal Challengers Bangalore,Deccan Chargers,2,2,Royal Challengers Bangalore
+Chennai Super Kings,Delhi Daredevils,3,3,Chennai Super Kings
+Deccan Chargers,Delhi Daredevils,2,3,Delhi Daredevils
+Kings XI Punjab,Delhi Daredevils,3,3,Delhi Daredevils
+Kolkata Knight Riders,Delhi Daredevils,2,4,Delhi Daredevils
+Kolkata Knight Riders,Delhi Daredevils,1,4,Delhi Daredevils
+Mumbai Indians,Delhi Daredevils,1,5,Delhi Daredevils
+Mumbai Indians,Delhi Daredevils,1,5,Delhi Daredevils
+Royal Challengers Bangalore,Delhi Daredevils,2,5,Delhi Daredevils
+Chennai Super Kings,Kings XI Punjab,4,2,Chennai Super Kings
+Chennai Super Kings,Kings XI Punjab,4,1,Chennai Super Kings
+Deccan Chargers,Kings XI Punjab,2,2,Kings XI Punjab
+Delhi Daredevils,Kings XI Punjab,4,2,Kings XI Punjab
+Kolkata Knight Riders,Kings XI Punjab,0,3,Kings XI Punjab
+Rajasthan Royals,Kings XI Punjab,4,3,Rajasthan Royals
+Royal Challengers Bangalore,Kings XI Punjab,2,4,Kings XI Punjab
+Royal Challengers Bangalore,Kings XI Punjab,2,3,Royal Challengers Bangalore
+Chennai Super Kings,Kolkata Knight Riders,3,1,Kolkata Knight Riders
+Kings XI Punjab,Kolkata Knight Riders,2,2,Kolkata Knight Riders
+Mumbai Indians,Kolkata Knight Riders,2,2,Mumbai Indians
+Mumbai Indians,Kolkata Knight Riders,3,2,Mumbai Indians
+Rajasthan Royals,Kolkata Knight Riders,3,3,Kolkata Knight Riders
+Rajasthan Royals,Kolkata Knight Riders,3,2,Rajasthan Royals
+Deccan Chargers,Mumbai Indians,2,2,Deccan Chargers
+Deccan Chargers,Mumbai Indians,2,2,Deccan Chargers
+Kings XI Punjab,Mumbai Indians,2,2,Kings XI Punjab
+Kings XI Punjab,Mumbai Indians,2,2,Mumbai Indians
+Rajasthan Royals,Mumbai Indians,3,1,Rajasthan Royals
+Chennai Super Kings,Rajasthan Royals,4,3,Chennai Super Kings
+Deccan Chargers,Rajasthan Royals,3,2,Deccan Chargers
+Deccan Chargers,Rajasthan Royals,3,3,Rajasthan Royals
+Delhi Daredevils,Rajasthan Royals,4,2,Delhi Daredevils
+Delhi Daredevils,Rajasthan Royals,3,2,Rajasthan Royals
+Kings XI Punjab,Rajasthan Royals,2,2,Kings XI Punjab
+Royal Challengers Bangalore,Rajasthan Royals,2,3,Rajasthan Royals
+Royal Challengers Bangalore,Rajasthan Royals,2,2,Royal Challengers Bangalore
+Chennai Super Kings,Royal Challengers Bangalore,4,2,Chennai Super Kings
+Chennai Super Kings,Royal Challengers Bangalore,3,3,Royal Challengers Bangalore
+Chennai Super Kings,Royal Challengers Bangalore,2,3,Royal Challengers Bangalore
+Deccan Chargers,Royal Challengers Bangalore,4,3,Deccan Chargers
+Deccan Chargers,Royal Challengers Bangalore,4,2,Deccan Chargers
+Delhi Daredevils,Royal Challengers Bangalore,2,3,Royal Challengers Bangalore
+Kolkata Knight Riders,Royal Challengers Bangalore,1,3,Royal Challengers Bangalore
+Kolkata Knight Riders,Royal Challengers Bangalore,1,3,Royal Challengers Bangalore
+Mumbai Indians,Royal Challengers Bangalore,2,3,Mumbai Indians
+Mumbai Indians,Royal Challengers Bangalore,2,4,Royal Challengers Bangalore
+Deccan Chargers,Chennai Super Kings,4,2,Deccan Chargers
+Delhi Daredevils,Chennai Super Kings,1,2,Chennai Super Kings
+Kings XI Punjab,Chennai Super Kings,2,2,Chennai Super Kings
+Kings XI Punjab,Chennai Super Kings,3,2,Kings XI Punjab
+Kolkata Knight Riders,Chennai Super Kings,1,3,Chennai Super Kings
+Rajasthan Royals,Chennai Super Kings,3,3,Rajasthan Royals
+Royal Challengers Bangalore,Chennai Super Kings,3,3,Chennai Super Kings
+Royal Challengers Bangalore,Chennai Super Kings,3,2,Royal Challengers Bangalore
+Chennai Super Kings,Deccan Chargers,3,3,Chennai Super Kings
+Chennai Super Kings,Deccan Chargers,2,4,Deccan Chargers
+Kings XI Punjab,Deccan Chargers,2,4,Deccan Chargers
+Kolkata Knight Riders,Deccan Chargers,1,3,Kolkata Knight Riders
+Kolkata Knight Riders,Deccan Chargers,2,2,Kolkata Knight Riders
+Mumbai Indians,Deccan Chargers,3,2,Mumbai Indians
+Mumbai Indians,Deccan Chargers,3,1,Mumbai Indians
+Rajasthan Royals,Deccan Chargers,3,0,Rajasthan Royals
+Royal Challengers Bangalore,Deccan Chargers,2,1,Deccan Chargers
+Chennai Super Kings,Delhi Daredevils,2,2,Delhi Daredevils
+Deccan Chargers,Delhi Daredevils,2,1,Deccan Chargers
+Deccan Chargers,Delhi Daredevils,3,1,Deccan Chargers
+Kings XI Punjab,Delhi Daredevils,2,2,Delhi Daredevils
+Kolkata Knight Riders,Delhi Daredevils,3,2,Kolkata Knight Riders
+Mumbai Indians,Delhi Daredevils,4,1,Mumbai Indians
+Mumbai Indians,Delhi Daredevils,4,1,Mumbai Indians
+Rajasthan Royals,Delhi Daredevils,3,2,Delhi Daredevils
+Deccan Chargers,Kings XI Punjab,4,1,Deccan Chargers
+Delhi Daredevils,Kings XI Punjab,1,2,Kings XI Punjab
+Kolkata Knight Riders,Kings XI Punjab,3,2,Kings XI Punjab
+Kolkata Knight Riders,Kings XI Punjab,4,2,Kolkata Knight Riders
+Mumbai Indians,Kings XI Punjab,4,3,Kings XI Punjab
+Rajasthan Royals,Kings XI Punjab,3,3,Rajasthan Royals
+Chennai Super Kings,Kolkata Knight Riders,2,3,Chennai Super Kings
+Delhi Daredevils,Kolkata Knight Riders,2,2,Delhi Daredevils
+Mumbai Indians,Kolkata Knight Riders,3,2,Kolkata Knight Riders
+Rajasthan Royals,Kolkata Knight Riders,3,3,Kolkata Knight Riders
+Rajasthan Royals,Kolkata Knight Riders,3,2,Rajasthan Royals
+Royal Challengers Bangalore,Kolkata Knight Riders,2,3,Kolkata Knight Riders
+Chennai Super Kings,Mumbai Indians,3,2,Chennai Super Kings
+Chennai Super Kings,Mumbai Indians,3,1,Chennai Super Kings
+Chennai Super Kings,Mumbai Indians,3,1,Mumbai Indians
+Kings XI Punjab,Mumbai Indians,2,2,Mumbai Indians
+Kolkata Knight Riders,Mumbai Indians,3,3,Mumbai Indians
+Chennai Super Kings,Rajasthan Royals,4,2,Chennai Super Kings
+Deccan Chargers,Rajasthan Royals,4,3,Rajasthan Royals
+Delhi Daredevils,Rajasthan Royals,3,2,Delhi Daredevils
+Kings XI Punjab,Rajasthan Royals,1,3,Rajasthan Royals
+Mumbai Indians,Rajasthan Royals,4,2,Mumbai Indians
+Mumbai Indians,Rajasthan Royals,5,2,Mumbai Indians
+Deccan Chargers,Royal Challengers Bangalore,4,1,Deccan Chargers
+Deccan Chargers,Royal Challengers Bangalore,3,2,Royal Challengers Bangalore
+Delhi Daredevils,Royal Challengers Bangalore,4,1,Delhi Daredevils
+Delhi Daredevils,Royal Challengers Bangalore,4,1,Delhi Daredevils
+Kings XI Punjab,Royal Challengers Bangalore,1,2,Royal Challengers Bangalore
+Kings XI Punjab,Royal Challengers Bangalore,0,3,Royal Challengers Bangalore
+Kolkata Knight Riders,Royal Challengers Bangalore,2,3,Royal Challengers Bangalore
+Mumbai Indians,Royal Challengers Bangalore,5,3,Mumbai Indians
+Mumbai Indians,Royal Challengers Bangalore,5,3,Mumbai Indians
+Mumbai Indians,Royal Challengers Bangalore,4,3,Royal Challengers Bangalore
+Rajasthan Royals,Royal Challengers Bangalore,1,3,Royal Challengers Bangalore
+Rajasthan Royals,Royal Challengers Bangalore,1,3,Royal Challengers Bangalore
+Mumbai Indians,Chennai Super Kings,4,3,Mumbai Indians
+Rajasthan Royals,Chennai Super Kings,0,3,Chennai Super Kings
+Royal Challengers Bangalore,Chennai Super Kings,3,3,Chennai Super Kings
+Chennai Super Kings,Deccan Chargers,4,2,Chennai Super Kings
+Kolkata Knight Riders,Deccan Chargers,2,1,Kolkata Knight Riders
+Kolkata Knight Riders,Deccan Chargers,3,1,Kolkata Knight Riders
+Mumbai Indians,Deccan Chargers,4,0,Mumbai Indians
+Chennai Super Kings,Delhi Daredevils,4,4,Chennai Super Kings
+Deccan Chargers,Delhi Daredevils,1,3,Deccan Chargers
+Deccan Chargers,Delhi Daredevils,1,3,Delhi Daredevils
+Kings XI Punjab,Delhi Daredevils,1,2,Kings XI Punjab
+Kolkata Knight Riders,Delhi Daredevils,3,1,Kolkata Knight Riders
+Mumbai Indians,Delhi Daredevils,4,1,Mumbai Indians
+Chennai Super Kings,Kings XI Punjab,4,2,Kings XI Punjab
+Deccan Chargers,Kings XI Punjab,2,2,Deccan Chargers
+Deccan Chargers,Kings XI Punjab,2,3,Kings XI Punjab
+Delhi Daredevils,Kings XI Punjab,2,3,Delhi Daredevils
+Mumbai Indians,Kings XI Punjab,4,2,Mumbai Indians
+Royal Challengers Bangalore,Kings XI Punjab,4,1,Royal Challengers Bangalore
+Chennai Super Kings,Kolkata Knight Riders,4,3,Chennai Super Kings
+Chennai Super Kings,Kolkata Knight Riders,3,4,Kolkata Knight Riders
+Kings XI Punjab,Kolkata Knight Riders,1,4,Kolkata Knight Riders
+Rajasthan Royals,Kolkata Knight Riders,0,4,Kolkata Knight Riders
+Rajasthan Royals,Kolkata Knight Riders,0,4,Kolkata Knight Riders
+Deccan Chargers,Mumbai Indians,3,4,Deccan Chargers
+Delhi Daredevils,Mumbai Indians,1,4,Mumbai Indians
+Kings XI Punjab,Mumbai Indians,1,3,Kings XI Punjab
+Kolkata Knight Riders,Mumbai Indians,4,3,Mumbai Indians
+Kolkata Knight Riders,Mumbai Indians,3,3,Mumbai Indians
+Royal Challengers Bangalore,Mumbai Indians,3,4,Mumbai Indians
+Royal Challengers Bangalore,Mumbai Indians,3,3,Royal Challengers Bangalore
+Chennai Super Kings,Rajasthan Royals,3,0,Chennai Super Kings
+Deccan Chargers,Rajasthan Royals,2,1,Rajasthan Royals
+Delhi Daredevils,Rajasthan Royals,1,2,Rajasthan Royals
+Kings XI Punjab,Rajasthan Royals,2,2,Kings XI Punjab
+Mumbai Indians,Rajasthan Royals,3,3,Rajasthan Royals
+Mumbai Indians,Rajasthan Royals,2,4,Rajasthan Royals
+Chennai Super Kings,Royal Challengers Bangalore,3,2,Chennai Super Kings
+Chennai Super Kings,Royal Challengers Bangalore,4,2,Chennai Super Kings
+Chennai Super Kings,Royal Challengers Bangalore,3,2,Royal Challengers Bangalore
+Deccan Chargers,Royal Challengers Bangalore,3,2,Deccan Chargers
+Delhi Daredevils,Royal Challengers Bangalore,1,2,Royal Challengers Bangalore
+Kings XI Punjab,Royal Challengers Bangalore,3,2,Kings XI Punjab
+Kolkata Knight Riders,Royal Challengers Bangalore,2,3,Royal Challengers Bangalore
+Kolkata Knight Riders,Royal Challengers Bangalore,1,3,Royal Challengers Bangalore
+Rajasthan Royals,Royal Challengers Bangalore,3,4,Royal Challengers Bangalore
+Delhi Daredevils,Chennai Super Kings,1,4,Chennai Super Kings
+Kings XI Punjab,Chennai Super Kings,4,3,Kings XI Punjab
+Kolkata Knight Riders,Chennai Super Kings,0,3,Chennai Super Kings
+Rajasthan Royals,Chennai Super Kings,2,3,Chennai Super Kings
+Rajasthan Royals,Chennai Super Kings,2,4,Chennai Super Kings
+Royal Challengers Bangalore,Chennai Super Kings,3,4,Chennai Super Kings
+Chennai Super Kings,Deccan Chargers,5,2,Chennai Super Kings
+Chennai Super Kings,Deccan Chargers,5,2,Chennai Super Kings
+Kings XI Punjab,Deccan Chargers,5,1,Kings XI Punjab
+Rajasthan Royals,Deccan Chargers,1,2,Deccan Chargers
+Chennai Super Kings,Delhi Daredevils,5,0,Chennai Super Kings
+Chennai Super Kings,Delhi Daredevils,4,1,Delhi Daredevils
+Deccan Chargers,Delhi Daredevils,1,2,Delhi Daredevils
+Deccan Chargers,Delhi Daredevils,1,3,Delhi Daredevils
+Kings XI Punjab,Delhi Daredevils,4,4,Delhi Daredevils
+Kings XI Punjab,Delhi Daredevils,3,5,Delhi Daredevils
+Kolkata Knight Riders,Delhi Daredevils,0,5,Delhi Daredevils
+Kolkata Knight Riders,Delhi Daredevils,1,4,Kolkata Knight Riders
+Mumbai Indians,Delhi Daredevils,1,4,Delhi Daredevils
+Rajasthan Royals,Delhi Daredevils,0,4,Delhi Daredevils
+Royal Challengers Bangalore,Delhi Daredevils,4,3,Royal Challengers Bangalore
+Royal Challengers Bangalore,Delhi Daredevils,4,2,Royal Challengers Bangalore
+Chennai Super Kings,Kings XI Punjab,3,3,Kings XI Punjab
+Deccan Chargers,Kings XI Punjab,1,3,Kings XI Punjab
+Mumbai Indians,Kings XI Punjab,0,3,Kings XI Punjab
+Rajasthan Royals,Kings XI Punjab,1,3,Rajasthan Royals
+Rajasthan Royals,Kings XI Punjab,2,3,Rajasthan Royals
+Royal Challengers Bangalore,Kings XI Punjab,3,3,Kings XI Punjab
+Chennai Super Kings,Kolkata Knight Riders,2,2,Kolkata Knight Riders
+Chennai Super Kings,Kolkata Knight Riders,1,3,Kolkata Knight Riders
+Deccan Chargers,Kolkata Knight Riders,1,4,Kolkata Knight Riders
+Delhi Daredevils,Kolkata Knight Riders,2,5,Kolkata Knight Riders
+Kings XI Punjab,Kolkata Knight Riders,3,4,Kings XI Punjab
+Kings XI Punjab,Kolkata Knight Riders,2,4,Kolkata Knight Riders
+Mumbai Indians,Kolkata Knight Riders,1,3,Mumbai Indians
+Rajasthan Royals,Kolkata Knight Riders,2,3,Kolkata Knight Riders
+Rajasthan Royals,Kolkata Knight Riders,3,2,Rajasthan Royals
+Chennai Super Kings,Mumbai Indians,1,1,Chennai Super Kings
+Chennai Super Kings,Mumbai Indians,1,2,Mumbai Indians
+Chennai Super Kings,Mumbai Indians,1,3,Mumbai Indians
+Deccan Chargers,Mumbai Indians,0,4,Mumbai Indians
+Deccan Chargers,Mumbai Indians,0,4,Mumbai Indians
+Delhi Daredevils,Mumbai Indians,2,4,Delhi Daredevils
+Kings XI Punjab,Mumbai Indians,2,4,Mumbai Indians
+Kolkata Knight Riders,Mumbai Indians,3,3,Kolkata Knight Riders
+Rajasthan Royals,Mumbai Indians,3,3,Mumbai Indians
+Royal Challengers Bangalore,Mumbai Indians,2,3,Mumbai Indians
+Deccan Chargers,Rajasthan Royals,0,3,Rajasthan Royals
+Delhi Daredevils,Rajasthan Royals,2,2,Delhi Daredevils
+Mumbai Indians,Rajasthan Royals,4,2,Mumbai Indians
+Royal Challengers Bangalore,Rajasthan Royals,3,1,Royal Challengers Bangalore
+Deccan Chargers,Royal Challengers Bangalore,1,2,Deccan Chargers
+Deccan Chargers,Royal Challengers Bangalore,1,2,Royal Challengers Bangalore
+Kings XI Punjab,Royal Challengers Bangalore,2,3,Royal Challengers Bangalore
+Kolkata Knight Riders,Royal Challengers Bangalore,3,3,Kolkata Knight Riders
+Kolkata Knight Riders,Royal Challengers Bangalore,4,2,Kolkata Knight Riders
+Mumbai Indians,Royal Challengers Bangalore,3,3,Royal Challengers Bangalore
+Rajasthan Royals,Royal Challengers Bangalore,2,2,Rajasthan Royals
+Kings XI Punjab,Chennai Super Kings,1,2,Chennai Super Kings
+Kolkata Knight Riders,Chennai Super Kings,3,3,Chennai Super Kings
+Mumbai Indians,Chennai Super Kings,4,2,Mumbai Indians
+Mumbai Indians,Chennai Super Kings,4,2,Mumbai Indians
+Mumbai Indians,Chennai Super Kings,4,2,Mumbai Indians
+Rajasthan Royals,Chennai Super Kings,1,2,Chennai Super Kings
+Royal Challengers Bangalore,Chennai Super Kings,1,2,Chennai Super Kings
+Royal Challengers Bangalore,Chennai Super Kings,2,2,Royal Challengers Bangalore
+Sunrisers Hyderabad,Chennai Super Kings,0,3,Chennai Super Kings
+Chennai Super Kings,Delhi Daredevils,4,2,Chennai Super Kings
+Chennai Super Kings,Delhi Daredevils,4,2,Chennai Super Kings
+Kings XI Punjab,Delhi Daredevils,1,2,Kings XI Punjab
+Kolkata Knight Riders,Delhi Daredevils,3,2,Delhi Daredevils
+Mumbai Indians,Delhi Daredevils,3,2,Delhi Daredevils
+Mumbai Indians,Delhi Daredevils,4,2,Mumbai Indians
+Rajasthan Royals,Delhi Daredevils,2,2,Rajasthan Royals
+Royal Challengers Bangalore,Delhi Daredevils,3,2,Royal Challengers Bangalore
+Chennai Super Kings,Kings XI Punjab,4,1,Chennai Super Kings
+Delhi Daredevils,Kings XI Punjab,1,2,Kings XI Punjab
+Mumbai Indians,Kings XI Punjab,4,2,Mumbai Indians
+Royal Challengers Bangalore,Kings XI Punjab,2,3,Kings XI Punjab
+Royal Challengers Bangalore,Kings XI Punjab,2,3,Kings XI Punjab
+Sunrisers Hyderabad,Kings XI Punjab,1,3,Sunrisers Hyderabad
+Chennai Super Kings,Kolkata Knight Riders,5,2,Chennai Super Kings
+Delhi Daredevils,Kolkata Knight Riders,0,2,Kolkata Knight Riders
+Kings XI Punjab,Kolkata Knight Riders,3,1,Kings XI Punjab
+Kings XI Punjab,Kolkata Knight Riders,3,2,Kolkata Knight Riders
+Mumbai Indians,Kolkata Knight Riders,4,2,Mumbai Indians
+Rajasthan Royals,Kolkata Knight Riders,2,3,Kolkata Knight Riders
+Rajasthan Royals,Kolkata Knight Riders,3,2,Rajasthan Royals
+Royal Challengers Bangalore,Kolkata Knight Riders,2,3,Kolkata Knight Riders
+Chennai Super Kings,Mumbai Indians,5,3,Chennai Super Kings
+Kings XI Punjab,Mumbai Indians,3,3,Kings XI Punjab
+Kolkata Knight Riders,Mumbai Indians,2,3,Mumbai Indians
+Rajasthan Royals,Mumbai Indians,2,3,Mumbai Indians
+Rajasthan Royals,Mumbai Indians,3,2,Rajasthan Royals
+Royal Challengers Bangalore,Mumbai Indians,2,2,Royal Challengers Bangalore
+Sunrisers Hyderabad,Mumbai Indians,1,3,Mumbai Indians
+Chennai Super Kings,Rajasthan Royals,4,3,Rajasthan Royals
+Delhi Daredevils,Rajasthan Royals,0,4,Rajasthan Royals
+Kings XI Punjab,Rajasthan Royals,2,4,Rajasthan Royals
+Kings XI Punjab,Rajasthan Royals,2,5,Rajasthan Royals
+Mumbai Indians,Rajasthan Royals,3,4,Mumbai Indians
+Royal Challengers Bangalore,Rajasthan Royals,1,4,Rajasthan Royals
+Sunrisers Hyderabad,Rajasthan Royals,1,4,Rajasthan Royals
+Sunrisers Hyderabad,Rajasthan Royals,1,4,Rajasthan Royals
+Sunrisers Hyderabad,Rajasthan Royals,2,3,Sunrisers Hyderabad
+Delhi Daredevils,Royal Challengers Bangalore,0,2,Royal Challengers Bangalore
+Kolkata Knight Riders,Royal Challengers Bangalore,2,3,Royal Challengers Bangalore
+Mumbai Indians,Royal Challengers Bangalore,3,3,Mumbai Indians
+Rajasthan Royals,Royal Challengers Bangalore,3,3,Royal Challengers Bangalore
+Sunrisers Hyderabad,Royal Challengers Bangalore,1,4,Royal Challengers Bangalore
+Chennai Super Kings,Sunrisers Hyderabad,4,1,Chennai Super Kings
+Delhi Daredevils,Sunrisers Hyderabad,0,2,Sunrisers Hyderabad
+Delhi Daredevils,Sunrisers Hyderabad,0,3,Sunrisers Hyderabad
+Kings XI Punjab,Sunrisers Hyderabad,1,3,Sunrisers Hyderabad
+Kolkata Knight Riders,Sunrisers Hyderabad,2,3,Kolkata Knight Riders
+Kolkata Knight Riders,Sunrisers Hyderabad,2,4,Sunrisers Hyderabad
+Mumbai Indians,Sunrisers Hyderabad,3,4,Sunrisers Hyderabad
+Royal Challengers Bangalore,Sunrisers Hyderabad,3,4,Sunrisers Hyderabad
+Delhi Daredevils,Chennai Super Kings,0,4,Chennai Super Kings
+Kings XI Punjab,Chennai Super Kings,2,3,Kings XI Punjab
+Kings XI Punjab,Chennai Super Kings,2,2,Kings XI Punjab
+Mumbai Indians,Chennai Super Kings,3,3,Chennai Super Kings
+Mumbai Indians,Chennai Super Kings,2,3,Chennai Super Kings
+Mumbai Indians,Chennai Super Kings,1,3,Chennai Super Kings
+Rajasthan Royals,Chennai Super Kings,2,4,Chennai Super Kings
+Royal Challengers Bangalore,Chennai Super Kings,2,5,Chennai Super Kings
+Sunrisers Hyderabad,Chennai Super Kings,3,5,Chennai Super Kings
+Chennai Super Kings,Delhi Daredevils,5,0,Chennai Super Kings
+Kolkata Knight Riders,Delhi Daredevils,1,1,Delhi Daredevils
+Mumbai Indians,Delhi Daredevils,0,2,Delhi Daredevils
+Mumbai Indians,Delhi Daredevils,1,2,Mumbai Indians
+Rajasthan Royals,Delhi Daredevils,2,2,Rajasthan Royals
+Royal Challengers Bangalore,Delhi Daredevils,3,2,Royal Challengers Bangalore
+Sunrisers Hyderabad,Delhi Daredevils,4,1,Sunrisers Hyderabad
+Chennai Super Kings,Kings XI Punjab,4,3,Kings XI Punjab
+Delhi Daredevils,Kings XI Punjab,0,4,Kings XI Punjab
+Delhi Daredevils,Kings XI Punjab,0,5,Kings XI Punjab
+Kolkata Knight Riders,Kings XI Punjab,2,4,Kolkata Knight Riders
+Rajasthan Royals,Kings XI Punjab,1,4,Kings XI Punjab
+Royal Challengers Bangalore,Kings XI Punjab,2,4,Kings XI Punjab
+Sunrisers Hyderabad,Kings XI Punjab,3,4,Kings XI Punjab
+Chennai Super Kings,Kolkata Knight Riders,4,2,Chennai Super Kings
+Chennai Super Kings,Kolkata Knight Riders,3,2,Kolkata Knight Riders
+Delhi Daredevils,Kolkata Knight Riders,0,3,Kolkata Knight Riders
+Kings XI Punjab,Kolkata Knight Riders,4,3,Kings XI Punjab
+Kings XI Punjab,Kolkata Knight Riders,4,3,Kolkata Knight Riders
+Kings XI Punjab,Kolkata Knight Riders,3,4,Kolkata Knight Riders
+Mumbai Indians,Kolkata Knight Riders,1,4,Kolkata Knight Riders
+Rajasthan Royals,Kolkata Knight Riders,2,3,Rajasthan Royals
+Rajasthan Royals,Kolkata Knight Riders,3,3,Rajasthan Royals
+Sunrisers Hyderabad,Kolkata Knight Riders,2,3,Kolkata Knight Riders
+Sunrisers Hyderabad,Kolkata Knight Riders,1,3,Kolkata Knight Riders
+Kings XI Punjab,Mumbai Indians,2,2,Mumbai Indians
+Kings XI Punjab,Mumbai Indians,1,3,Mumbai Indians
+Kolkata Knight Riders,Mumbai Indians,3,3,Kolkata Knight Riders
+Rajasthan Royals,Mumbai Indians,3,3,Mumbai Indians
+Sunrisers Hyderabad,Mumbai Indians,1,4,Mumbai Indians
+Sunrisers Hyderabad,Mumbai Indians,1,3,Sunrisers Hyderabad
+Chennai Super Kings,Rajasthan Royals,3,2,Chennai Super Kings
+Delhi Daredevils,Rajasthan Royals,0,3,Rajasthan Royals
+Kings XI Punjab,Rajasthan Royals,1,2,Kings XI Punjab
+Mumbai Indians,Rajasthan Royals,3,1,Mumbai Indians
+Royal Challengers Bangalore,Rajasthan Royals,1,2,Rajasthan Royals
+Royal Challengers Bangalore,Rajasthan Royals,1,3,Rajasthan Royals
+Sunrisers Hyderabad,Rajasthan Royals,1,3,Rajasthan Royals
+Sunrisers Hyderabad,Rajasthan Royals,2,3,Sunrisers Hyderabad
+Chennai Super Kings,Royal Challengers Bangalore,2,2,Royal Challengers Bangalore
+Delhi Daredevils,Royal Challengers Bangalore,0,2,Royal Challengers Bangalore
+Kings XI Punjab,Royal Challengers Bangalore,2,2,Kings XI Punjab
+Kolkata Knight Riders,Royal Challengers Bangalore,4,2,Kolkata Knight Riders
+Kolkata Knight Riders,Royal Challengers Bangalore,5,2,Kolkata Knight Riders
+Mumbai Indians,Royal Challengers Bangalore,4,1,Mumbai Indians
+Mumbai Indians,Royal Challengers Bangalore,3,1,Royal Challengers Bangalore
+Sunrisers Hyderabad,Royal Challengers Bangalore,2,2,Royal Challengers Bangalore
+Chennai Super Kings,Sunrisers Hyderabad,2,3,Sunrisers Hyderabad
+Delhi Daredevils,Sunrisers Hyderabad,0,3,Sunrisers Hyderabad
+Kings XI Punjab,Sunrisers Hyderabad,3,3,Kings XI Punjab
+Royal Challengers Bangalore,Sunrisers Hyderabad,2,3,Sunrisers Hyderabad
+Kings XI Punjab,Chennai Super Kings,3,2,Chennai Super Kings
+Mumbai Indians,Chennai Super Kings,2,3,Chennai Super Kings
+Mumbai Indians,Chennai Super Kings,3,2,Mumbai Indians
+Mumbai Indians,Chennai Super Kings,3,2,Mumbai Indians
+Royal Challengers Bangalore,Chennai Super Kings,2,3,Chennai Super Kings
+Sunrisers Hyderabad,Chennai Super Kings,4,2,Sunrisers Hyderabad
+Chennai Super Kings,Delhi Daredevils,2,0,Chennai Super Kings
+Chennai Super Kings,Delhi Daredevils,2,1,Delhi Daredevils
+Kings XI Punjab,Delhi Daredevils,3,2,Delhi Daredevils
+Kings XI Punjab,Delhi Daredevils,2,3,Delhi Daredevils
+Kolkata Knight Riders,Delhi Daredevils,5,3,Kolkata Knight Riders
+Rajasthan Royals,Delhi Daredevils,4,3,Rajasthan Royals
+Sunrisers Hyderabad,Delhi Daredevils,4,2,Sunrisers Hyderabad
+Chennai Super Kings,Kings XI Punjab,3,1,Chennai Super Kings
+Mumbai Indians,Kings XI Punjab,3,0,Mumbai Indians
+Rajasthan Royals,Kings XI Punjab,3,1,Kings XI Punjab
+Rajasthan Royals,Kings XI Punjab,3,1,Rajasthan Royals
+Royal Challengers Bangalore,Kings XI Punjab,3,1,Royal Challengers Bangalore
+Sunrisers Hyderabad,Kings XI Punjab,4,1,Sunrisers Hyderabad
+Sunrisers Hyderabad,Kings XI Punjab,5,1,Sunrisers Hyderabad
+Chennai Super Kings,Kolkata Knight Riders,3,4,Chennai Super Kings
+Chennai Super Kings,Kolkata Knight Riders,3,4,Kolkata Knight Riders
+Delhi Daredevils,Kolkata Knight Riders,1,4,Kolkata Knight Riders
+Kings XI Punjab,Kolkata Knight Riders,0,4,Kolkata Knight Riders
+Kings XI Punjab,Kolkata Knight Riders,0,4,Kolkata Knight Riders
+Mumbai Indians,Kolkata Knight Riders,3,5,Kolkata Knight Riders
+Mumbai Indians,Kolkata Knight Riders,4,4,Mumbai Indians
+Rajasthan Royals,Kolkata Knight Riders,3,3,Rajasthan Royals
+Sunrisers Hyderabad,Kolkata Knight Riders,5,2,Sunrisers Hyderabad
+Chennai Super Kings,Mumbai Indians,2,4,Mumbai Indians
+Delhi Daredevils,Mumbai Indians,1,3,Delhi Daredevils
+Delhi Daredevils,Mumbai Indians,1,3,Mumbai Indians
+Kings XI Punjab,Mumbai Indians,1,3,Kings XI Punjab
+Royal Challengers Bangalore,Mumbai Indians,3,2,Royal Challengers Bangalore
+Sunrisers Hyderabad,Mumbai Indians,4,2,Mumbai Indians
+Chennai Super Kings,Rajasthan Royals,3,3,Chennai Super Kings
+Chennai Super Kings,Rajasthan Royals,2,3,Rajasthan Royals
+Delhi Daredevils,Rajasthan Royals,1,4,Rajasthan Royals
+Mumbai Indians,Rajasthan Royals,3,3,Mumbai Indians
+Mumbai Indians,Rajasthan Royals,2,3,Rajasthan Royals
+Royal Challengers Bangalore,Rajasthan Royals,3,3,Royal Challengers Bangalore
+Royal Challengers Bangalore,Rajasthan Royals,3,2,
+Sunrisers Hyderabad,Rajasthan Royals,3,2,Rajasthan Royals
+Sunrisers Hyderabad,Rajasthan Royals,3,2,Sunrisers Hyderabad
+Chennai Super Kings,Royal Challengers Bangalore,2,3,Chennai Super Kings
+Chennai Super Kings,Royal Challengers Bangalore,3,2,Chennai Super Kings
+Delhi Daredevils,Royal Challengers Bangalore,1,2,Royal Challengers Bangalore
+Delhi Daredevils,Royal Challengers Bangalore,1,1,
+Kings XI Punjab,Royal Challengers Bangalore,2,1,Kings XI Punjab
+Kolkata Knight Riders,Royal Challengers Bangalore,1,2,Royal Challengers Bangalore
+Kolkata Knight Riders,Royal Challengers Bangalore,0,3,Royal Challengers Bangalore
+Mumbai Indians,Royal Challengers Bangalore,3,2,Mumbai Indians
+Rajasthan Royals,Royal Challengers Bangalore,1,3,Royal Challengers Bangalore
+Sunrisers Hyderabad,Royal Challengers Bangalore,2,4,Royal Challengers Bangalore
+Chennai Super Kings,Sunrisers Hyderabad,4,1,Chennai Super Kings
+Delhi Daredevils,Sunrisers Hyderabad,1,1,Delhi Daredevils
+Kolkata Knight Riders,Sunrisers Hyderabad,1,1,Kolkata Knight Riders
+Mumbai Indians,Sunrisers Hyderabad,4,0,Mumbai Indians
+Royal Challengers Bangalore,Sunrisers Hyderabad,3,1,Sunrisers Hyderabad
+Kings XI Punjab,Delhi Daredevils,2,2,Delhi Daredevils
+Kings XI Punjab,Delhi Daredevils,3,2,Kings XI Punjab
+Mumbai Indians,Delhi Daredevils,4,2,Mumbai Indians
+Royal Challengers Bangalore,Delhi Daredevils,2,3,Delhi Daredevils
+Sunrisers Hyderabad,Delhi Daredevils,1,3,Delhi Daredevils
+Sunrisers Hyderabad,Delhi Daredevils,1,3,Delhi Daredevils
+Kolkata Knight Riders,Kings XI Punjab,2,3,Kolkata Knight Riders
+Mumbai Indians,Kings XI Punjab,3,3,Kings XI Punjab
+Mumbai Indians,Kings XI Punjab,4,2,Mumbai Indians
+Royal Challengers Bangalore,Kings XI Punjab,3,2,Royal Challengers Bangalore
+Royal Challengers Bangalore,Kings XI Punjab,3,1,Royal Challengers Bangalore
+Delhi Daredevils,Kolkata Knight Riders,4,2,Delhi Daredevils
+Delhi Daredevils,Kolkata Knight Riders,4,3,Kolkata Knight Riders
+Kings XI Punjab,Kolkata Knight Riders,1,4,Kolkata Knight Riders
+Royal Challengers Bangalore,Kolkata Knight Riders,2,4,Kolkata Knight Riders
+Sunrisers Hyderabad,Kolkata Knight Riders,1,4,Kolkata Knight Riders
+Sunrisers Hyderabad,Kolkata Knight Riders,2,4,Sunrisers Hyderabad
+Delhi Daredevils,Mumbai Indians,4,3,Delhi Daredevils
+Kolkata Knight Riders,Mumbai Indians,3,3,Mumbai Indians
+Kolkata Knight Riders,Mumbai Indians,2,3,Mumbai Indians
+Royal Challengers Bangalore,Mumbai Indians,2,4,Mumbai Indians
+Royal Challengers Bangalore,Mumbai Indians,2,4,Mumbai Indians
+Sunrisers Hyderabad,Mumbai Indians,2,4,Sunrisers Hyderabad
+Delhi Daredevils,Royal Challengers Bangalore,3,2,Royal Challengers Bangalore
+Kolkata Knight Riders,Royal Challengers Bangalore,1,2,Royal Challengers Bangalore
+Sunrisers Hyderabad,Royal Challengers Bangalore,3,2,Sunrisers Hyderabad
+Sunrisers Hyderabad,Royal Challengers Bangalore,4,2,Sunrisers Hyderabad
+Kings XI Punjab,Sunrisers Hyderabad,0,5,Sunrisers Hyderabad
+Kings XI Punjab,Sunrisers Hyderabad,0,5,Sunrisers Hyderabad
+Kolkata Knight Riders,Sunrisers Hyderabad,1,4,Kolkata Knight Riders
+Mumbai Indians,Sunrisers Hyderabad,3,4,Sunrisers Hyderabad
+Royal Challengers Bangalore,Sunrisers Hyderabad,3,3,Royal Challengers Bangalore
+Mumbai Indians,Delhi Daredevils,3,2,Mumbai Indians
+Mumbai Indians,Delhi Daredevils,3,1,Mumbai Indians
+Royal Challengers Bangalore,Delhi Daredevils,3,1,Royal Challengers Bangalore
+Royal Challengers Bangalore,Delhi Daredevils,3,0,Royal Challengers Bangalore
+Sunrisers Hyderabad,Delhi Daredevils,2,1,Delhi Daredevils
+Sunrisers Hyderabad,Delhi Daredevils,2,1,Sunrisers Hyderabad
+Delhi Daredevils,Kings XI Punjab,2,0,Delhi Daredevils
+Delhi Daredevils,Kings XI Punjab,2,1,Kings XI Punjab
+Royal Challengers Bangalore,Kings XI Punjab,3,2,Kings XI Punjab
+Sunrisers Hyderabad,Kings XI Punjab,3,2,Sunrisers Hyderabad
+Sunrisers Hyderabad,Kings XI Punjab,3,2,Sunrisers Hyderabad
+Delhi Daredevils,Kolkata Knight Riders,2,2,Kolkata Knight Riders
+Delhi Daredevils,Kolkata Knight Riders,1,3,Kolkata Knight Riders
+Kings XI Punjab,Kolkata Knight Riders,3,3,Kings XI Punjab
+Kings XI Punjab,Kolkata Knight Riders,2,4,Kolkata Knight Riders
+Mumbai Indians,Kolkata Knight Riders,3,3,Mumbai Indians
+Royal Challengers Bangalore,Kolkata Knight Riders,3,3,Kolkata Knight Riders
+Sunrisers Hyderabad,Kolkata Knight Riders,3,3,Kolkata Knight Riders
+Sunrisers Hyderabad,Kolkata Knight Riders,4,3,Sunrisers Hyderabad
+Kings XI Punjab,Mumbai Indians,2,3,Kings XI Punjab
+Kings XI Punjab,Mumbai Indians,2,4,Mumbai Indians
+Kolkata Knight Riders,Mumbai Indians,2,4,Mumbai Indians
+Kolkata Knight Riders,Mumbai Indians,2,4,Mumbai Indians
+Royal Challengers Bangalore,Mumbai Indians,2,4,Mumbai Indians
+Royal Challengers Bangalore,Mumbai Indians,1,5,Mumbai Indians
+Sunrisers Hyderabad,Mumbai Indians,3,5,Mumbai Indians
+Kings XI Punjab,Royal Challengers Bangalore,3,0,Kings XI Punjab
+Kolkata Knight Riders,Royal Challengers Bangalore,2,0,Kolkata Knight Riders
+Sunrisers Hyderabad,Royal Challengers Bangalore,3,0,Sunrisers Hyderabad
+Kolkata Knight Riders,Sunrisers Hyderabad,2,2,Kolkata Knight Riders
+Mumbai Indians,Sunrisers Hyderabad,4,3,Sunrisers Hyderabad
